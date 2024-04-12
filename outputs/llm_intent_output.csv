@@ -1,0 +1,77 @@
+ID,Question,Intent,gpt-3.5-turbo-0125_intent
+1,What types of properties are available in Madhapur?,property search,property search
+2,Can you show me listings with at least 2 bedrooms?,property search,property search
+3,Are there any new listings available since last week?,property search,property search
+4,Can you provide information on properties within my budget of 3cr?,property search,property search
+5,How can I start looking for properties in Madhapur?,property search,property search
+6,What is the square footage of the property located at Kondapur?,property search,property search
+7,Does pratik have a backyard or garden?,property search,property search
+8,Are there any schools nearby pratk?,property search,property search
+9,What are the property taxes for Phoenix?,support queries,property search
+10,What steps are involved in the home buying process?,support queries,support queries
+11,How long does it typically take to close on a house?,support queries,property search
+12,What kind of mortgage options are available?,support queries,support queries
+13,How do I apply for a mortgage?,support queries,support queries
+14,Do you offer property management services?,support queries,support queries
+15,Can you find properties with a home office?,property search,property search
+16,Are there any eco-friendly or green homes available in Jubilee Hills?,property search,property search
+17,Which properties have the best investment potential?,support queries,property search
+18,Can you recommend properties with accessibility features for disabled individuals?,property search,property search
+19,Can you explain what closing costs are and how much they might be?,support queries,support queries
+20,How can I list my property for sale?,support queries,support queries
+21,What is the current market value of my home?,support queries,property search
+22,Are there any rental properties available in Kondapur?,support queries,property search
+23,How do I apply for a mortgage?,support queries,support queries
+24,Do you offer property management services?,support queries,property search
+25,How can I find a reputable moving company?,support queries,support queries
+26,What are the current real estate market trends in Kokapet?,support queries,property search
+27,hi,support queries,support queries
+28,4,support queries,support queries
+29,banjara hiils,support queries,property search
+30,How do I sign up for alerts on new listings in my area of interest?,support queries,support queries
+31,Can you provide a comparison of living costs between Kokapet and Gachibowli?,support queries,property search
+32,What is the best time of year to buy a property in Gachibowli?,support queries,property search
+33,What neighborhoods in Hyderabad are best for families?,property search,property search
+34,Can you show me properties that have recently dropped in price?,property search,property search
+35,Can you provide detail on the architectural style of Phoenix?,support queries,support queries
+36,"How old is the property located at F8497, Laxmi road, whitefields, Kondapur?",support queries,property search
+37,What are the annual maintenance costs for My Home Bhooja?,property search,support queries
+38,Does Live in Luxury have a swimming pool or hot tub?,property search,property search
+39,Are there any homeowner association (HOA) fees for Sky luxury?,property search,property search
+40,Can I see a floor plan of Diamond estate?,support queries,property search
+41,What kind of heating and cooling systems does Aurovile have?,property search,support queries
+42,Does Aurovile come with any appliances?,property search,property search
+43,What are the parking facilities like at Aurovile?,property search,property search
+44,Is Aurovile in a flood zone or susceptible to other natural disasters?,support queries,support queries
+45,Are there neighborhoods in Hitech city that are particularly pet-friendly?,property search,property search
+46,Can you find properties in gated communities?,property search,property search
+47,I want to buy a house with a view of the ocean.,property search,property search
+48,Show me luxury villas in Goa.,property search,property search
+49,Show me 4 BHK property in New Delhi?,property search,property search
+50,Is this house located in a gated community?,property search,property search
+51,What is the price of this apartment?,property search,property search
+52,Show me furnished apartments for rent.,property search,property search
+53,I want to rent a fully furnished house.,property search,property search
+54,Is this property close to public transportation?,property search,property search
+55,I need a house with a backyard for my pets.,property search,property search
+56,I'm looking for a penthouse with a terrace.,property search,property search
+57,What is the age of this building?,property search,property search
+58,Show me properties with easy access to public parks.,property search,property search
+59,I'm interested in properties with a gym.,property search,property search
+60,I want to rent a fully furnished house.,property search,property search
+61,What is the security deposit for this rental?,property search,property search
+62,Show me properties with a modern kitchen.,property search,property search
+63,Is this property located in a noisy area?,property search,property search
+64,What is the commute time to the city center?,property search,support queries
+65,Show me properties with a view of the skyline.,property search,property search
+66,Is there a grocery store nearby?,property search,support queries
+67,I need a house with a garage for my car.,property search,property search
+68,Show me properties with a fireplace.,property search,property search
+69,Is there a library nearby?,property search,property search
+70,What is the distance to the nearest airport?,property search,support queries
+71,Show me properties with a tennis court.,property search,property search
+72,Is this property close to the beach?,property search,property search
+73,Is there a pharmacy nearby?,property search,support queries
+74,Hi! How are you?,support queries,support queries
+75,What's up?,support queries,support queries
+76,Can you assist me?,support queries,support queries

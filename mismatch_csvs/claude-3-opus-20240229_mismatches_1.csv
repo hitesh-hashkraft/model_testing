@@ -1,0 +1,16 @@
+Question,Intent,claude-3-opus-20240229_intent
+Which properties have the best investment potential?,support queries,property search
+Are there any rental properties available in Kondapur?,support queries,property search
+hi,support queries,
+4,support queries,
+banjara hiils,support queries,property search
+What is the best time of year to buy a property in Gachibowli?,support queries,property search
+Can you provide detail on the architectural style of Phoenix?,support queries,property search
+"How old is the property located at F8497, Laxmi road, whitefields, Kondapur?",support queries,property search
+Can I see a floor plan of Diamond estate?,support queries,property search
+Is Aurovile in a flood zone or susceptible to other natural disasters?,support queries,property search
+Is there a grocery store nearby?,property search,support queries
+Is there a library nearby?,property search,support queries
+What is the distance to the nearest airport?,property search,support queries
+Is there a pharmacy nearby?,property search,support queries
+Can you assist me?,support queries,
